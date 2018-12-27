@@ -11,7 +11,7 @@ iReporter enables any/every citizen to bring any form of corruption to the notic
 * Add geolocation (Lat Long Coordinates) to either a red-flag or intervention 
 record. 
 * View all red-flag or intervention records an individual user has created.
-###user’s profile which displays: 
+### user’s profile which displays: 
 1. The number of red-flag/intervention records that has been resolved. 
 2. The number of red-flag/intervention records that are yet to be resolved (in 
 draft or under investigation states). 
